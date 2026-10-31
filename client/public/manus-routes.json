@@ -1,0 +1,1 @@
+{"routes":[{"path":"/","title":"BazaarPK Home"},{"path":"/shop","title":"Shop the edit"},{"path":"/product/:id","title":"Product detail"},{"path":"/checkout","title":"Checkout"},{"path":"/account","title":"Your account"},{"path":"/admin","title":"Operations"},{"path":"/404","title":"Not found"}]}
